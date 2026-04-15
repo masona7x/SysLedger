@@ -1,0 +1,4 @@
+[project]sysledger"
+version = "0.1.0"
+description = "Read-only system evidence collection for audits"
+requires-python = ">=3.10"
