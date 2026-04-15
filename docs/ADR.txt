@@ -1,0 +1,9 @@
+Architecture Decision Log
+
+## ADR-001: CLI-first design
+Decision: SysLedger will be a CLI tool.
+Reason: Auditors need artifacts, not dashboards.
+
+## ADR-002: Read-Only posture
+Decision: SysLedger will never mutate system state.
+Reason: Safety, trust, audit defensibility.
