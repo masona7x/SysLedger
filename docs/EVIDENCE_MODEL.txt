@@ -1,0 +1,9 @@
+## Evidence Object
+
+Each evidence item must include:
+- what: description of the fact collected
+- value: the observed value
+- source: system or log it came from
+- collected_at: timestamp (ISO 8601)
+- host: system name
+- collector: module name
