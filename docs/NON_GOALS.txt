@@ -1,0 +1,9 @@
+
+SysLedger will not:
+- Enforce compliance
+- Score risk
+- Change system state
+- Reboot systems
+- Patch systems
+- Store credentials persistently
+- Exfiltrate data automatically
